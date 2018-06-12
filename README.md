@@ -9,11 +9,9 @@ A demo of my Spring boot + Angular + Postgresql
 
 * [Spring Boot](http://projects.spring.io/spring-boot/)
 * [Maven](http://maven.apache.org/)
-
 * [Spring Data JPA](http://projects.spring.io/spring-data-jpa/)
 * [PostgreSQL](http://www.postgresql.org/) (Production, Development)
 * [H2 Database Engine](http://www.h2database.com/) (Test)
-* [Flyway Database Migration](http://flywaydb.org/)
 * [Docker](https://www.docker.com/)
 * [Docker Compose](https://docs.docker.com/compose/)
 * [Angular5](https://angular.io/)
