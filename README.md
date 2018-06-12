@@ -24,6 +24,7 @@ A demo of my Spring boot + Angular + Postgresql
 student-rest/mvn package
 # Build the angular project
 student-app/npm install
+studeent-app/ng build --prod
 
 # or just use docker-compose
 # for building and running
